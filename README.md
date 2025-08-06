@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0+-green.svg)
-![License](https://img.shields.io/badge/License-Academic%20Use-red.svg)
+![License](https://img.shields.io/badge/License-MIT-red.svg)
 ![Affiliation](https://img.shields.io/badge/Affiliation-UNTIRTA-orange.svg)
 
 Sistem otomatis tingkat lanjut untuk mengumpulkan data perusahaan dari LinkedIn, dilengkapi dengan teknologi *Anti-CAPTCHA Protection™* dan *Smart Challenge Handler™*.
